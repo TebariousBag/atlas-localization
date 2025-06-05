@@ -19,7 +19,7 @@ msgstr ""
 
 #: app.py:23
 msgid "Hello, World!"
-msgstr ""
+msgstr "Hello Atlas"
 
 #: app.py:28
 #, python-format
