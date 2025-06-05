@@ -38,7 +38,7 @@ def index():
         num
     ) % {'num': num}
 
-    return f"{greeting} {message} — {taco_message}"
+    return f"{greeting} {message} — {taco_message}\n"
 
 if __name__ == "__main__":
     app.run(debug=True)
